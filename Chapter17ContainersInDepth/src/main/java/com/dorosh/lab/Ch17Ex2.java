@@ -1,4 +1,4 @@
-/* TIJed4 Chapter Containers in Depth, Exercise 1, page 579
+/* TIJed4 Chapter Containers in Depth, Exercise 2, page 579
  * 
  * Exercise 2: (2) Produce a Map and a Set containing all the countries that begin with ‘A’.
  *
