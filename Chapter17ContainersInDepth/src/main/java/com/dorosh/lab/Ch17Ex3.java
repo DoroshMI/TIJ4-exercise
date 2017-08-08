@@ -13,16 +13,13 @@
 
 package com.dorosh.lab;
 
-import java.util.Collections;
-import java.util.HashMap;
+
 import java.util.HashSet;
 import java.util.LinkedHashSet;
-import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
 
 import com.dorosh.lab.net.mindview.util.Countries;
-import com.dorosh.lab.net.mindview.util.Print;
 
 public class Ch17Ex3 {
 
